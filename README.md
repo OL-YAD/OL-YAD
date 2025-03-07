@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ol-yad&label=Profile%20views&color=0e75b6&style=flat" alt="ol-yad" /> </p>
 
-- I’m currently **🔭 pursuing my masters degree in CSE degree | student @ alx SE |certified Virtual Assistant |frontend developer| Data Science Enthusiast**
+- I’m currently **🔭  masters degree in CSE | student @ alx SE |certified Virtual Assistant |frontend developer| Data Science Enthusiast**
 
 - 🌱 I’m currently learning **everything**
 
