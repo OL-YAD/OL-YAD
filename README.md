@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=180&section=header&text=Olyad%20Temesgen&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Machine%20Learning%20Engineer%20%7C%20Data%20Analyst%20%7C%20Software%20Engineer&descAlignY=62&descSize=18" width="100%" alt="Header" />
+  <!--<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=180&section=header&text=Olyad%20Temesgen&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Machine%20Learning%20Engineer%20%7C%20Data%20Analyst%20%7C%20Software%20Engineer&descAlignY=62&descSize=18" width="100%" alt="Header" />
 
   <!-- Animated Typing Subtitle -->
   <p align="center">
@@ -80,7 +80,7 @@
 
 </div>
 
----
+
 
 ### 📈 GitHub Analytics
 
@@ -92,18 +92,17 @@
   </p>
 
   <!-- Interactive Activity Graph -->
-  <p align="center">
+  <!--<p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ol-yad&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Olyad's Contribution Graph" />
   </p>
 
   <!-- GitHub Stats Card -->
-  <p align="center">
+  <!--<p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=ol-yad&show_icons=true&locale=en&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Olyad's GitHub Stats" />
   </p>
 
 </div>
 
----
 
 <!-- Footer Wave Banner -->
 <div align="center">
